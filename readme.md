@@ -60,4 +60,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Screenshot
 
-![My Gallery Screenshot](/img/Background.jpg)
+![My Gallery Screenshot](/img/screenshort.png)
