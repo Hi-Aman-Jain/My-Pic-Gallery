@@ -1,6 +1,6 @@
 # My Gallery - Interactive Image Showcase
 
-![My Gallery Banner](Designer.png)
+![My Gallery Banner](/img/Designer.png)
 
 ## Description
 
@@ -48,12 +48,7 @@ cd my-pic-gallery
 To add your own images to the gallery:
 
 1. Place your image files in the `img/` directory.
-2. Update the `index.html` file, adding or modifying `<img>` tags within the `.gallery` div:
-
-```html
-<div class="gallery-image">
-    <img src="img/your-image-filename.jpg" alt="Your Image Description" class="image">
-</div>
+2. Update the `index.html` file, adding or modifying `<img>` tags within the `.gallery`.
 
 ## Contributing
 
@@ -65,4 +60,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Screenshot
 
-![My Gallery Screenshot](screenshort.png)
+![My Gallery Screenshot](/img/Background.jpg)
